@@ -39,3 +39,6 @@ project-folder/
 │   ├── products/
 │   ├── banners/
 │   └── accessories/
+
+## 🔗 Live Demo
+`https://ecommerce-website-luxe.netlify.app/`
